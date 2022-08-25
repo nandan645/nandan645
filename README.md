@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @nandan645
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi 👋, I'm Abhi Nandan.
+## I am a student who loves creating stuff.
 
-<!---
-nandan645/nandan645 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning C language 
+- 🤔 I’m looking for help with understanding the after-school world 
+- 📫 How to reach me: nandan645@protonmail.com 
+- 😄 Pronouns: He 
+- ⚡ Fun fact: What's fun ? 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandan645)](https://github.com/anuraghazra/github-readme-stats)
