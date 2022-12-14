@@ -1,7 +1,7 @@
 # Hi 👋, I'm Abhinandan Kumar.
 ## I am a student who loves creating stuff.
 
-- 🎓 I’m currently persuing B-Tech Degree from IIT Mandi.
+- 🎓 I’m currently in my 1st year persuing a B-Tech Degree from IIT Mandi.
 - 🤔 I’m looking for help with learning about open-source world.
 - 📫 How to reach me: nandan645@protonmail.com 
 - 😄 Pronouns: He 
