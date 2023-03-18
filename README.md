@@ -1,8 +1,7 @@
 # Hi 👋, I'm Abhinandan Kumar.
 ## I am a student who loves creating stuff.
 
-- 🎓 I’m currently in my 1st year persuing a B-Tech Degree from IIT Mandi.
-- 🤔 I’m looking for help with learning about open-source world.
+- 🎓 I’m currently in my 1st year persuing B-Tech Degree from IIT Mandi.
 - 📫 How to reach me: nandan645@protonmail.com 
 - 😄 Pronouns: He 
 - ⚡ Fun fact (not about me (ofc)): You CAN eat a Raspberry Pie 😋
