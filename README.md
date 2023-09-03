@@ -5,7 +5,7 @@
 - 📫 How to reach me: nandan645@protonmail.com 
 - 😄 Pronouns: He 
 - ⚡ Fun fact (not about me (ofc)): You CAN eat a Raspberry Pie 😋
-
+- 🎨 Design Portfolio: https://scarce-twilight-6bf.notion.site/Design-Portfolio-855fde880da54b099093d651f14f459a?pvs=4
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=nandan645&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
