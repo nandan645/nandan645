@@ -1,4 +1,4 @@
-### Hi 👋, I'm Abhinandan Kuma.
+### Hi 👋, I'm Abhinandan Kumar.
 
 - Nothing much, just chilling 🌿
 
